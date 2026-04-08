@@ -10,6 +10,34 @@
 header {
     background-color: var(--primary-color);
     color: #fff;
+    margin: 1rem auto;
+    display: grid;
+    grid-template-columns: 120px 1fr 1fr;
+    align-items: center;
+    border-bottom: 1px solid #ccc;
+    max-width: 1000px;
+
+}
+
+.navigation {
+    display: flex;
+    list-style: none;
+}
+
+.navigation li {
+    flex: 1 1 auto;
+}
+
+.navigation a {
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+.navigation a:hover {
+    color: tomato;
+    text-decoration: underline;
 }
 
 * {
