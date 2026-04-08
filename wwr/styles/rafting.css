@@ -9,7 +9,7 @@
 
 header {
     background-color: var(--primary-color);
-    color: var(--secondary-color);
+    color: #fff;
 }
 
 * {
@@ -81,9 +81,10 @@ article {
     bottom: 20px;
     left: 20px;
     width: 320px;
-    background-color: var(--primary-color);
+    background-color: var(--accent2-color);
     border: 2px solid var(--secondary-color);
     padding: 16px;
+    color: #fff;
 }
 
 .hero img {
