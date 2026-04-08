@@ -2,7 +2,7 @@
     --primary-color: #b81f1f;
     --secondary-color: #f4a261;
     --accent1-color: #194ec0;
-    --accent2-color: #e45b00;
+    --accent2-color: #886060;
     --heading-font: "Times New Roman", "Georgia", serif;
     --body-font: Ariel, Helvetica, Sans-serif;
 }
@@ -84,7 +84,7 @@ article {
     background-color: var(--accent2-color);
     border: 2px solid var(--secondary-color);
     padding: 16px;
-    color: var(--accent1-color);
+    color: #fff;
 }
 
 .hero img {
