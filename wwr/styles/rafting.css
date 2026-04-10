@@ -136,3 +136,16 @@ h1 {
     float: right;
     width: 125px;
 }
+
+.adventures {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+
+.columns-4 {
+    grid-column: span 4;
+}
+
+.ad-figure {
+    margin: 10px;
+}
