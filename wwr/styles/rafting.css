@@ -167,12 +167,6 @@ iframe {
     padding: 20px;
 }
 
-iframe {
-    width: 100%;
-    height: 300px;
-    border: none;
-}
-
 .employees {
     display: flex;
     gap: 20px;
