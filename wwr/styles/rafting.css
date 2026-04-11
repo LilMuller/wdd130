@@ -140,3 +140,39 @@ article {
 .ad-figure {
     margin: 10px;
 }
+
+.contact-info,
+.employees,
+.contact-form {
+    margin: 20px;
+    padding: 20px;
+}
+
+iframe {
+    width: 100%;
+    height: 300px;
+    border: none;
+}
+
+.employees {
+    display: flex;
+    gap: 20px;
+}
+
+.employees figure {
+    text-align: center;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
