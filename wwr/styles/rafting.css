@@ -57,8 +57,9 @@ main {
 }
 
 footer {
-    width: 840px;
+    width: 100%;
     margin: 0 auto;
+    text-align: center;
 }
 
 .hero h1 {
@@ -186,11 +187,7 @@ form {
 }
 
 .socialmedia img {
-    width: 50%;
-}
-
-footer {
-    text-align: center;
+    width: 20%;
 }
 
 button {
