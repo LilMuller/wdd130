@@ -48,7 +48,7 @@ header {
 
 body {
     font-family: var(--body-font);
-    color: var(--primary-color);
+    color: var(--accent1-color);
 }
 
 main {
@@ -76,7 +76,7 @@ footer {
 
 h2 {
     font-family: var(--heading-font);
-    color: #87cefa;
+    color: var(--accent1-color);
 }
 
 nav {
